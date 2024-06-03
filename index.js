@@ -20,7 +20,7 @@ function PlaySong(){
     play.style.display = "none"//after clicking button not show the button
     pause.style.display = "flex"//after clicking button show
     
-    song.volume = 0.05  //0 to 1
+    song.volume = 0.50  //0 to 1
     song.play()//to play song
 }
 
